@@ -44,7 +44,7 @@ export default function Home() {
           </a>
 
           <a
-            href="https://github.com/rossneilson/ipfs-cluster-propagator"
+            href="https://github.com/DXgovernance/ipfs-cluster-propagator"
             className={styles.card}
           >
             <h2>Github &rarr;</h2>
