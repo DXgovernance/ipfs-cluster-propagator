@@ -42,6 +42,17 @@ export default function Home() {
               technology.
             </p>
           </a>
+
+          <a
+            href="https://github.com/rossneilson/ipfs-cluster-propagator"
+            className={styles.card}
+          >
+            <h2>Github &rarr;</h2>
+            <p>
+              See the source code for this forwarding function and contribute
+              new ideas.
+            </p>
+          </a>
         </div>
       </main>
 

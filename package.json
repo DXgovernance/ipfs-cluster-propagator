@@ -7,6 +7,9 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "ipfs-only-hash": "^4.0.0",
+    "jsonschema": "^1.4.1",
+    "lru-cache": "^7.10.2",
     "next": "12.1.4",
     "react": "18.0.0",
     "react-dom": "18.0.0"
