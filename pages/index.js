@@ -20,7 +20,7 @@ export default function Home() {
 
         <div className={styles.grid}>
           <a
-            href="https://dxdocs.eth.limo/docs/Products/DXgov/DAVI/IPFS-propagator"
+            href="https://www.notion.so/rossneilson/DXdao-IPFS-Propagators-996d36ff5f014c4ea27acf84d09ba7ee"
             className={styles.card}
           >
             <h2>Documentation &rarr;</h2>
@@ -55,19 +55,6 @@ export default function Home() {
           </a>
         </div>
       </main>
-
-      <footer className={styles.footer}>
-        <a
-          href="https://vercel.com?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Powered by{" "}
-          <span className={styles.logo}>
-            <Image src="/vercel.svg" alt="Vercel Logo" width={72} height={16} />
-          </span>
-        </a>
-      </footer>
     </div>
   );
 }
